@@ -30,5 +30,9 @@
   "devDependencies": {
     "grunt": "~0.3.17"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "hubot": "~2.4.6",
+    "websocket": "~1.0.8"
+  }
 }
